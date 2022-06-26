@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://api.data.gov/ed/collegescorecard/v1/schools.json'
