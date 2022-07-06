@@ -4,7 +4,7 @@ College Search is a NextJS application that includes a search bar that fetches c
 
 I decided to utilize Typescript to help avoid errors, and to make my code as explicit as possible. For styling I used Material UI to quickly add a responsive layout, and to match the styling of Google Maps.
 
-I also wanted to utililze the performance improvements from serving a NextJS application from AWS Cloudfront. To help with the deployment process, I decided to host this application on AWS Amplify.
+I also wanted to utililze the performance improvements from serving a NextJS application from AWS Cloudfront. To help with the deployment process, I decided to host this application on AWS Amplify and leverage Amplify's CI solution.
 
 ## Prior to Starting the App
 
